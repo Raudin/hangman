@@ -8,7 +8,7 @@ This is a Python game built using Pygame library, which is a popular module for 
 To run the game, follow these steps:
 
 1. Clone the repository: git clone https://github.com/raudin/hangman.git
-2. Navigate to the project directory: cd hangman-game
+2. Navigate to the project directory: cd hangman
 3. Install the required packages: pip install -r requirements.txt
 4. Run the game: python main.py
 # Game Objective
